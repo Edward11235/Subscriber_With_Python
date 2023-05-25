@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/publisher.dir/src/Publisher.cc.o -o publisher  -Wl,-rpath,/home/nerf-bridge/Desktop/Packet_python/build libORB_SLAM2.so -lpthread 

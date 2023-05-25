@@ -1,0 +1,4 @@
+/home/nerf-bridge/Desktop/Packet_python/build/CMakeFiles/ORB_SLAM2.dir
+/home/nerf-bridge/Desktop/Packet_python/build/CMakeFiles/publisher.dir
+/home/nerf-bridge/Desktop/Packet_python/build/CMakeFiles/edit_cache.dir
+/home/nerf-bridge/Desktop/Packet_python/build/CMakeFiles/rebuild_cache.dir
